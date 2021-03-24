@@ -19,5 +19,5 @@ func times(a int, b int) int {
 }
 
 func sumX(a int, b int) int {
-	return a + b + a
+	return a + b + a 
 }
